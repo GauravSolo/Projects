@@ -1,0 +1,11 @@
+.inputbox{
+    @apply bg-white flex flex-col sm:flex-row justify-between p-3 rounded-lg;
+}
+
+.box{
+    @apply flex items-center justify-between md:flex-col md:items-start;
+}
+
+.label{
+    @apply text-gray-500 font-medium;
+}
