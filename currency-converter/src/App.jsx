@@ -24,7 +24,7 @@ function App() {
   
 
   return (
-    <div className="border mx-auto flex flex-col gap-5 bg-gray-200 md:w-1/2  rounded-md mt-20 p-5">
+    <div className="border mx-10 flex flex-col gap-5 bg-gray-200 md:w-1/2  rounded-md mt-20 ">
       <div className="flex flex-col gap-3 relative">
         <InputBox 
           label="From" 
